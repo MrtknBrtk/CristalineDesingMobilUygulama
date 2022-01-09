@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703779942787",
+    "firebase_url": "https://crystallinedesign-d790c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "crystallinedesign-d790c",
+    "storage_bucket": "crystallinedesign-d790c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703779942787:android:96b820a40f5543eff586b6",
+        "android_client_info": {
+          "package_name": "com.example.tattoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703779942787-o7br9qprk3djsotq4laqkd403t60uit4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR0kMI16OiUMSElhxV1-TmG2waaIx4Cl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703779942787-o7br9qprk3djsotq4laqkd403t60uit4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
